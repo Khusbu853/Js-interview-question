@@ -5,6 +5,7 @@ const fetchData = () => {
 };
 
 
+// deboundec version
 const debounce = (fetchData, delay) => {
 
     let timer
